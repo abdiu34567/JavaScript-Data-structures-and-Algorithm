@@ -45,5 +45,4 @@ function a(n) {
 }
 ```
 
-⬆️ This block of code has `f(n) = n+1`. There is `+1` from the last operation `(count+=3)`. This still has a Big-O notation of O(n). This is because that 1 operation is not
-dependent on the input n. As n approaches infinity, it will become negligible
+⬆️ This block of code has `f(n) = n+1`. There is `+1` from the last operation `(count+=3)`. This still has a Big-O notation of O(n). This is because that 1 operation is not dependent on the input n. As `n` approaches infinity, it will become negligible
