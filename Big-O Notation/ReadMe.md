@@ -27,7 +27,7 @@ function Linear(n) {
 }
 ```
 
-Similarly, `O(n2)` is quadratic time
+Similarly, **O(n<sup>2</sup>)** is quadratic time
 
 ```js
 function Quadratic(n) {
@@ -41,7 +41,7 @@ function Quadratic(n) {
 }
 ```
 
-`O(n3)` is cubic time
+**O(n<sup>3</sup>)** is cubic time
 
 ```js
 function Cubic(n) {
