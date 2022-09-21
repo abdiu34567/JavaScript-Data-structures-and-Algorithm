@@ -16,5 +16,5 @@ function (n){
 ```
 
 In this example, `f(n) = 5n*n` because line 6 runs 5n times for a total of n iterations.
-Therefore, this results in a total of `5n2`
-operations. Applying the coefficient rule, the result is that `O(n)=n2`
+Therefore, this results in a total of <code>5n<sup>2</sup></code>
+operations. Applying the coefficient rule, the result is that <code>O(n)=n<sup>2</sup></code>
